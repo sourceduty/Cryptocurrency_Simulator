@@ -27,6 +27,8 @@ In terms of future-proofing your mining operation, it’s important to invest in
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Investing Simulator](https://github.com/sourceduty/Investing_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
