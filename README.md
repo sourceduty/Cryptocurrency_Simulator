@@ -45,6 +45,8 @@ Profitability for an industrial ASIC mining setup hinges on two major variables:
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Investing Simulator](https://github.com/sourceduty/Investing_Simulator)
+<br>
+[Crypto IoT](https://github.com/sourceduty/Crypto_IoT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
